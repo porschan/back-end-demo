@@ -1,0 +1,8 @@
+
+2018-08-10 17:17:57
+[ERROR]-[Thread: main]-[com.jfinal.kit.LogKit.error()]: port: 2018 already in use!
+java.lang.IllegalStateException: port: 2018 already in use!
+	at com.jfinal.server.JettyServerForIDEA.doStart(JettyServerForIDEA.java:89)
+	at com.jfinal.server.JettyServerForIDEA.start(JettyServerForIDEA.java:72)
+	at com.jfinal.core.JFinal.start(JFinal.java:174)
+	at config.AppConfig.main(AppConfig.java:25)

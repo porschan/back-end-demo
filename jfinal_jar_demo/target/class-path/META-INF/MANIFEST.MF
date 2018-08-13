@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Built-By: chan
+Class-Path: lib/jfinal-3.4.jar lib/cglib-nodep-3.2.5.jar lib/jetty-ser
+ ver-8.1.8.jar lib/jetty-xml-8.1.8.v20121106.jar lib/jetty-util-8.1.8.
+ v20121106.jar lib/jetty-servlet-8.1.8.v20121106.jar lib/jetty-securit
+ y-8.1.8.v20121106.jar lib/jetty-server-8.1.8.v20121106.jar lib/javax.
+ servlet-3.0.0.v201112011016.jar lib/jetty-continuation-8.1.8.v2012110
+ 6.jar lib/jetty-http-8.1.8.v20121106.jar lib/jetty-io-8.1.8.v20121106
+ .jar lib/hutool-all-3.2.2.jar lib/slf4j-log4j12-1.7.24.jar lib/slf4j-
+ api-1.7.24.jar lib/log4j-1.2.16.jar lib/mysql-connector-java-5.1.38.j
+ ar lib/c3p0-0.9.1.2.jar lib/cron4j-2.2.5.jar lib/httpclient-4.5.2.jar
+  lib/httpcore-4.4.4.jar lib/commons-logging-1.2.jar lib/commons-codec
+ -1.9.jar lib/json-20160810.jar
+Created-By: Apache Maven 3.5.3
+Build-Jdk: 1.8.0_152
+Main-Class: config.AppMain
+
